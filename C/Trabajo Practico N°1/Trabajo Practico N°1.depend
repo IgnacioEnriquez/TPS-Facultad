@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1587154159 source:c:\users\nachota-pc\desktop\trabajo practico n°1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesmath.h"
+	"funciones.h"
+
+1587153701 source:c:\users\nachota-pc\desktop\trabajo practico n°1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1586576140 c:\users\nachota-pc\desktop\trabajo practico n°1\funciones.h
+
+1587082233 source:c:\users\nachota-pc\desktop\trabajo practico n°1\funcionesmath.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesmath.h"
+
+1587082440 c:\users\nachota-pc\desktop\trabajo practico n°1\funcionesmath.h
+

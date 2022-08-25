@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1589547308 source:c:\users\nachota-pc\desktop\trabajo practico n°2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"Funciones.h"
+
+1589546781 source:c:\users\nachota-pc\desktop\trabajo practico n°2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"Funciones.h"
+	"dataWarehouse.h"
+
+1589547309 c:\users\nachota-pc\desktop\trabajo practico n°2\arrayemployees.h
+	"Funciones.h"
+
+1588779509 c:\users\nachota-pc\desktop\trabajo practico n°2\datawarehouse.h
+
+1589547473 source:c:\users\nachota-pc\desktop\trabajo practico n°2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+	"ArrayEmployees.h"
+
+1589547309 c:\users\nachota-pc\desktop\trabajo practico n°2\funciones.h
+	"ArrayEmployees.h"
+
+1589651444 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\tps\trabajo practico n°2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+	"ArrayEmployees.h"
+	"ABM.h"
+	"Menus.h"
+
+1589651873 c:\users\nachota-pc\desktop\nacho\facultad\programacion\tps\trabajo practico n°2\arrayemployees.h
+	"ABM.h"
+	"Funciones.h"
+	"Menus.h"
+
+1589651873 c:\users\nachota-pc\desktop\nacho\facultad\programacion\tps\trabajo practico n°2\funciones.h
+	"ArrayEmployees.h"
+	"ABM.h"
+	"Menus.h"
+
+1589599407 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\tps\trabajo practico n°2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+	"ArrayEmployees.h"
+	"ABM.h"
+	"Menus.h"
+
+1589598580 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\tps\trabajo practico n°2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"Funciones.h"
+	"dataWarehouse.h"
+	"ABM.h"
+
+1588779509 c:\users\nachota-pc\desktop\nacho\facultad\programacion\tps\trabajo practico n°2\datawarehouse.h
+
+1589651873 c:\users\nachota-pc\desktop\nacho\facultad\programacion\tps\trabajo practico n°2\abm.h
+	"ArrayEmployees.h"
+	"Funciones.h"
+	"Menus.h"
+
+1589598580 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\tps\trabajo practico n°2\abm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+	"ArrayEmployees.h"
+	"ABM.h"
+	"Menus.h"
+
+1589651873 c:\users\nachota-pc\desktop\nacho\facultad\programacion\tps\trabajo practico n°2\menus.h
+	"Funciones.h"
+	"ArrayEmployees.h"
+	"ABM.h"
+
+1589651696 source:c:\users\nachota-pc\desktop\nacho\facultad\programacion\tps\trabajo practico n°2\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+	"ArrayEmployees.h"
+	"ABM.h"
+	"Menus.h"
+
